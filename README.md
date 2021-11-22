@@ -7,6 +7,8 @@
 - 📫 Si queréis ver mi trabajo podéis verlo en instagram @maora_art (y en un futuro espero que en mi propio portfolio) ✨
 <hr>
 ![Imagen de mi persona](https://pbs.twimg.com/media/E_jtYaqWYAAJIzv?format=jpg&name=large)
+:width: 400 px
+:height: 400 px
 
 <!--
 **maora131/maora131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
