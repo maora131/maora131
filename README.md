@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hola Mundo 👋
+<hr>
+¡Bienvenidos a mi perfil! Mi nombre es Maora y soy ✨diseñadora e ilustradora✨ 
+
+- 🔭 Estudié Bellas Artes en la UVigo e hizo un máster en dibujo: ilustración, cómic y creación audiovisual.
+- 🌱 Actualmente trabajo como diseñadora web y gestora de contenidos.
+- 📫 Si queréis ver mi trabajo podéis verlo en instagram @maora_art (y en un futuro espero que en mi propio portfolio) ✨
+<hr>
+![Imagen de mi persona](https://pbs.twimg.com/media/E_jtYaqWYAAJIzv?format=jpg&name=large)
 
 <!--
 **maora131/maora131** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
