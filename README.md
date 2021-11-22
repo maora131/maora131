@@ -6,7 +6,7 @@
 - 🌱 Actualmente trabajo como diseñadora web y gestora de contenidos.
 - 📫 Si queréis ver mi trabajo podéis verlo en instagram @maora_art (y en un futuro espero que en mi propio portfolio) ✨
 <hr>
-![alt text](https://pbs.twimg.com/media/E_jtYaqWYAAJIzv?format=jpg&name=large/to/img.png)
+
 
 
 <!--
