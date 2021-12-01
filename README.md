@@ -2,7 +2,7 @@
 <hr>
 ¡Bienvenidos a mi perfil! Mi nombre es Maora y soy ✨diseñadora e ilustradora✨ 
 
-- 🔭 Estudié Bellas Artes en la UVigo e hizo un máster en dibujo: ilustración, cómic y creación audiovisual.
+- 🔭 Estudié Bellas Artes en la UVigo e hice un máster en dibujo: ilustración, cómic y creación audiovisual en la UGR.
 - 🌱 Actualmente trabajo como diseñadora web y gestora de contenidos.
 - 📫 Si queréis ver mi trabajo podéis verlo en instagram @maora_art (y en un futuro espero que en mi propio portfolio) ✨
 <hr>
