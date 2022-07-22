@@ -1,6 +1,6 @@
 ### Hola Mundo 👋
 <hr>
-¡Bienvenidos a mi perfil! Mi nombre es Maora y soy ✨diseñadora e ilustradora✨ 
+¡Bienvenidos a mi perfil! Mi nombre es Sofía y soy ✨diseñadora e ilustradora✨ 
 
 - 🔭 Estudié Bellas Artes en la UVigo e hice un máster en dibujo: ilustración, cómic y creación audiovisual en la UGR.
 - 🌱 Actualmente trabajo como diseñadora web y gestora de contenidos.
