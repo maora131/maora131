@@ -4,7 +4,7 @@
 
 - 🔭 Estudié Bellas Artes en la UVigo e hice un máster en dibujo: ilustración, cómic y creación audiovisual en la UGR.
 - 🌱 Actualmente trabajo como diseñadora web y gestora de contenidos.
-- 📫 Si queréis ver mi trabajo podéis verlo en instagram @maora_art (y en un futuro espero que en mi propio portfolio) ✨
+- 📫 Si queréis ver mi trabajo próximamente tendré mi propia web ✨
 <hr>
 
 
