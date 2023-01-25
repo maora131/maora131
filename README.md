@@ -3,7 +3,7 @@
 ¡Bienvenidos a mi perfil! Mi nombre es Sofía y soy ✨diseñadora e ilustradora✨ 
 
 - 🔭 Estudié Bellas Artes en la UVigo e hice un máster en dibujo: ilustración, cómic y creación audiovisual en la UGR.
-- 🌱 Actualmente trabajo como diseñadora web y gestora de contenidos.
+- 🌱 Actualmente trabajo como técnica web y en el pasado como diseñadora web y gestora de contenidos.
 - 📫 Si queréis ver mi trabajo próximamente tendré mi propia web ✨
 <hr>
 
