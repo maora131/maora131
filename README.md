@@ -17,13 +17,13 @@
 
 ### :woman_technologist: About Me :
 I am a Web Developer & designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
-- :telescope: I wordkes as a Web Technician and contributing to frontend and backend for building web applications.
+- :telescope: I worked as a Web Technician and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sofia-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 
 ---
 
