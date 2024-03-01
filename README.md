@@ -12,7 +12,7 @@
 I am a Web Developer & designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 - :telescope: I worked as a Web Technician and contributing to frontend and backend for building web applications.
 
-- :seedling: I'm currently learning backend & UI.
+- :seedling: I'm currently learning backend (java) & UI.
 
 - :zap: In my free time, I work on several projects and building my portfolio web.
 
