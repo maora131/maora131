@@ -8,10 +8,6 @@
   <h1>
     Hello!
   </h1>
-</div>
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
 
 ---
 
@@ -19,11 +15,11 @@
 I am a Web Developer & designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 - :telescope: I worked as a Web Technician and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring backend & UI.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I build my portfolio in web design.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sofia-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sofia-blue?style=flat&logo=Linkedin&logoColor=white)](https://es.linkedin.com/in/sofiasanmartin)
 
 ---
 
