@@ -14,9 +14,9 @@
 I am a Web Developer & designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 - :telescope: I worked as a Web Technician and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring backend & UI.
+- :seedling: I'm currently learning backend & UI.
 
-- :zap: In my free time, I build my portfolio web.
+- :zap: In my free time, I work on several projects and building my portfolio web.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sofia-blue?style=flat&logo=Linkedin&logoColor=white)](https://es.linkedin.com/in/sofiasanmartin)
 
