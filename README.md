@@ -1,14 +1,6 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="200"/>
-</div>
+  <h1>Hello!</h1>
 
-  <h1>
-    Hello!
-  </h1>
-
----
-
-### :woman_technologist: About Me :
+:woman_technologist: About Me :
 I am a Web Developer & designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Spain.
 - :telescope: I worked as a Web Technician and contributing to frontend and backend for building web applications.
 
@@ -18,8 +10,14 @@ I am a Web Developer & designer <img src="https://media.giphy.com/media/WUlplcMp
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-sofia-blue?style=flat&logo=Linkedin&logoColor=white)](https://es.linkedin.com/in/sofiasanmartin)
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/aIJDrOomj81MQZz2uO/giphy.gif" width="200"/>
+</div>
+
 ---
-### :hammer_and_wrench: Languages and Tools :
+
+:hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
